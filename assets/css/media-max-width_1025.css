@@ -1,0 +1,5 @@
+@media screen and (max-width: 1025px) {
+    .sort-container {
+        flex-direction: column;
+    }
+}
